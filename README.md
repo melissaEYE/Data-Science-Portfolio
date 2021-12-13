@@ -1,13 +1,14 @@
 # R---Neural-Networks
-Neural Network Analysis on 
-This project involves using R to examine a dataset containing heart disease information. My analysis involves creating neural network models to predict a patient's vital status at the time of their last follow-up session (whether they are alive or dead). I will create three models and tune their parameters to produce the most accurate model possible.
+Neural Network Analysis on diabetes data from Pima Indian females.
 
-The full report can be found in the file "Neural Network.pdf". This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, data partition, predictive modeling, model results, model tuning, and proposed solutions. Tables, visualizations, and a copy of my code are included in the appendices.
+The dataset used for this project was "pima_diabetes.csv". The data was obtained from Murphy & Aha, 1994; https://www.kaggle.com/kumargh/pimaindiansdiabetescsv.  
 
-The dataset "whas1.csv" was provided by my course instructor at the University of Maryland University College. The original data source and variable description were from Hosmer, Lemeshow, and May (1998).
+The objective of the analysis was to explore the factors that impact a positive or negative diagnosis of diabetes. More specifically, using the Neural Networks (NN) method of supervised learning, the objective is to classify the diabetes diagnosis using various input variables to include health, demographics, and family history. Understanding what factors affect the Pima Indian female’s high incidence rate of diabetes may provide some insight into strategies for mitigation. 
 
-The R script is included in the file "neural network script.R". The requirements are described in the file "requirements.txt". Instructions on how to use the program are included as comments in the R file. After opening the file, please read the instructions carefully before executing the code to ensure that the program functions correctly.
+This project involves using R to examine a dataset. My analysis involves creating neural network models to predict the factors that contribute to the continued rise of diabetes in the Pima community.
 
-References:
+The full report can be found in the file "Neural Network Assignment.pdf". This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, data partition, predictive modeling, model results, model tuning, and proposed solutions. Tables and visualizations are also included. 
 
-Hosmer, D. W., & Lemeshow, S. (1998). Description of the variables in the WHAS. Retrieved July 15, 2017, from ftp://ftp.wiley.com/public/sci_tech_med/survival/First-Edition% 20Data.zip
+The R script is included in the file "MHunfalvay_Assignment4.R". Instructions on how to use the program are included as comments in the R file. After opening the file, please read the instructions carefully before executing the code to ensure that the program functions correctly.
+
+
