@@ -1,4 +1,4 @@
-# R---Neural-Networks
+# Neural-Networks
 Neural Network Analysis on diabetes data from Pima Indian females.
 
 The dataset used for this project was "pima_diabetes.csv". The data was obtained from Murphy & Aha, 1994; https://www.kaggle.com/kumargh/pimaindiansdiabetescsv.  
